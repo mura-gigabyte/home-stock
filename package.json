@@ -11,7 +11,10 @@
   "dependencies": {
     "@nuxt/typescript-runtime": "^2.0.0",
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.6"
+    "firebase": "^8.1.2",
+    "firebase-tools": "^8.17.0",
+    "nuxt": "^2.14.6",
+    "save": "^2.4.0"
   },
   "devDependencies": {
     "@nuxt/types": "^2.14.6",
